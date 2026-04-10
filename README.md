@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Ideanomics Hub v5
 
 **Where Ideas Meet Investment**
@@ -77,3 +78,7 @@ Your app will automatically open in your web browser at `http://localhost:3000`!
 To test the admin features, use these login details:
 - **Email:** `admin@ideanomics.com`
 - **Password:** `Admin@123`
+=======
+# Ideanomics-Hub
+Ideanomics Hub is a MERN stack web application that allows users to create, share, and manage innovative ideas in a centralized platform. It enables interaction through likes, comments, and views while connecting creators with potential investors for collaboration and growth.
+>>>>>>> 228d8b7eeaf7dd9f0b51caeaa3403d335000d2ef
