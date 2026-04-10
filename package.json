@@ -1,0 +1,14 @@
+{
+  "name": "ideanomics-hub",
+  "version": "5.0.0",
+  "description": "Ideanomics Hub - Where Ideas Meet Investment",
+  "scripts": {
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && npm run dev",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install",
+    "start": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
